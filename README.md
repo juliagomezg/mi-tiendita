@@ -26,4 +26,4 @@ _Añade imágenes de tu aplicación aquí (puedes subirlas a GitHub y enlazarlas
 ## 🚀 Instalación  
 1️⃣ Clonar el repositorio:  
 ```bash
-git clone (https://github.com/juliagomezg/mi-tiendita.git)
+git clone [https://github.com/juliagomezg/mi-tiendita.git]
