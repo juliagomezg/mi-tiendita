@@ -10,8 +10,6 @@ Bienvenido/a a mi tienda en línea. 🚀 Este proyecto es una aplicación web cr
 ✅ **Panel de administrador** para agregar productos.  
 ✅ **Carga de imágenes con Cloudinary**.  
 
-## 📸 Capturas de Pantalla  
-_Añade imágenes de tu aplicación aquí (puedes subirlas a GitHub y enlazarlas)._  
 
 ## 🛠️ Tecnologías Usadas  
 - ⚛️ **React** + Vite  
